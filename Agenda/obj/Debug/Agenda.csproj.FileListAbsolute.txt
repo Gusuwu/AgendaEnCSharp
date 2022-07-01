@@ -1,0 +1,22 @@
+C:\Users\usuario\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\usuario\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\usuario\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\usuario\source\repos\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\usuario\source\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\usuario\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\usuario\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\usuario\source\repos\Agenda\Agenda\obj\Debug\Agenda.Principal.resources
+C:\Users\augus\OneDrive\Documentos\TSP\Laboratorio de Computación III\Agenda (1)\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\augus\OneDrive\Documentos\TSP\Laboratorio de Computación III\Agenda (1)\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\augus\OneDrive\Documentos\TSP\Laboratorio de Computación III\Agenda (1)\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\augus\OneDrive\Documentos\TSP\Laboratorio de Computación III\Agenda (1)\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+C:\Users\augus\OneDrive\Documentos\TSP\Laboratorio de Computación III\Agenda (1)\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\augus\OneDrive\Documentos\TSP\Laboratorio de Computación III\Agenda (1)\Agenda\Agenda\obj\Debug\Agenda.Principal.resources
+C:\Users\augus\OneDrive\Documentos\TSP\Laboratorio de Computación III\Agenda (1)\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\augus\OneDrive\Documentos\TSP\Laboratorio de Computación III\Agenda (1)\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\augus\OneDrive\Documentos\TSP\Laboratorio de Computación III\Agenda (1)\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Documentos\TSP\Laboratorio de Computación III\Agenda (1)\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\augus\OneDrive\Documentos\TSP\Laboratorio de Computación III\Agenda (1)\Agenda\Agenda\obj\Debug\Agenda.pdb
